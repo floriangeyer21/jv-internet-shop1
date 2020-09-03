@@ -1,4 +1,4 @@
-package mate.model;
+package com.internet.shop.model;
 
 public class User {
     private Long id;

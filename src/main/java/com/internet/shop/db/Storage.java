@@ -1,11 +1,11 @@
-package mate.db;
+package com.internet.shop.db;
 
+import com.internet.shop.model.Order;
+import com.internet.shop.model.Product;
+import com.internet.shop.model.ShoppingCart;
+import com.internet.shop.model.User;
 import java.util.ArrayList;
 import java.util.List;
-import mate.model.Order;
-import mate.model.Product;
-import mate.model.ShoppingCart;
-import mate.model.User;
 
 public class Storage {
     public static final List<Product> products = new ArrayList<>();

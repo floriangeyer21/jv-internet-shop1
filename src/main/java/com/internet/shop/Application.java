@@ -1,8 +1,8 @@
-package mate;
+package com.internet.shop;
 
-import mate.lib.Injector;
-import mate.model.Product;
-import mate.service.ProductService;
+import com.internet.shop.lib.Injector;
+import com.internet.shop.model.Product;
+import com.internet.shop.service.ProductService;
 
 public class Application {
     private static Injector injector = Injector.getInstance("com.internet.shop");

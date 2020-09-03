@@ -1,4 +1,4 @@
-package mate.model;
+package com.internet.shop.model;
 
 import java.util.List;
 

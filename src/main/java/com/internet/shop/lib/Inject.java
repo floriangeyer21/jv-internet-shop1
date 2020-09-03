@@ -1,4 +1,4 @@
-package mate.lib;
+package com.internet.shop.lib;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

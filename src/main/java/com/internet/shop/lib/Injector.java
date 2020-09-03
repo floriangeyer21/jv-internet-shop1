@@ -1,4 +1,4 @@
-package mate.lib;
+package com.internet.shop.lib;
 
 import java.io.File;
 import java.io.IOException;

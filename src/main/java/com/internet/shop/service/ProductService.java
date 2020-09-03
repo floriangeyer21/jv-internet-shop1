@@ -1,13 +1,12 @@
-package mate.dao;
+package com.internet.shop.service;
 
+import com.internet.shop.model.Product;
 import java.util.List;
-import java.util.Optional;
-import mate.model.Product;
 
-public interface ProductDao {
+public interface ProductService {
     Product create(Product product);
 
-    Optional<Product> getById(Long productId);
+    Product getById(Long productId);
 
     Product update(Product product);
 
